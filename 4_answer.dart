@@ -1,3 +1,5 @@
+// code in dart
+// by Fauzi Arda
 main(List<String> args) {
   print(Max2(1, 2));
   print(Max3(1, 2, 3));

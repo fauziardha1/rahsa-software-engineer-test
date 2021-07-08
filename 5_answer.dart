@@ -1,3 +1,5 @@
+// code in dart
+// by Fauzi Arda
 main(List<String> args) {
   Map nilai = {
     "Indonesia": 0,

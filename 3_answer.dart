@@ -1,3 +1,5 @@
+// code in dart
+// by Fauzi Arda
 main(List<String> args) {
   print(triangleArea(1, 2));
 }

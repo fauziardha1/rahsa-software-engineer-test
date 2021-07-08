@@ -1,3 +1,5 @@
+// code in dart
+// by Fauzi Arda
 import 'dart:math';
 
 main() {

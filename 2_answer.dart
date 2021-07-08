@@ -1,4 +1,5 @@
 // code in dart
+// by Fauzi Arda
 main(List<String> args) {
   int number = 0;
   if (number == 1) {
